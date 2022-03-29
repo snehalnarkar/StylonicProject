@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StylonicProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">REGISTER</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="confim_password">Confim Password</string>
+    <string name="already_have_an_account">Already have An Account</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_here">New User? Register here</string>
+</resources>
